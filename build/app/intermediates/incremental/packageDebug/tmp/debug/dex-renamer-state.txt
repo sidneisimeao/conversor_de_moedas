@@ -1,4 +1,4 @@
-#Sun Jul 21 11:22:58 BRT 2019
+#Sun Jul 28 10:16:58 BRT 2019
 base.0=/home/sidneisimmon/Desktop/conversor_de_moedas/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
